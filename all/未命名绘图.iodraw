@@ -12,7 +12,7 @@
         <mxCell id="oFSecOWWnVdhCFQKQTpV-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="260" width="360" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="oFSecOWWnVdhCFQKQTpV-3" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oFSecOWWnVdhCFQKQTpV-3" value="草稿" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="200" width="60" height="120" as="geometry">
             <mxRectangle x="770" y="200" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
