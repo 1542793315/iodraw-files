@@ -9,11 +9,6 @@
             <mxRectangle x="40" y="170" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFSecOWWnVdhCFQKQTpV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oFSecOWWnVdhCFQKQTpV-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="95" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oFSecOWWnVdhCFQKQTpV-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="260" width="360" height="230" as="geometry" />
         </mxCell>
